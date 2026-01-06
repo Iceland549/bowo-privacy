@@ -89,7 +89,7 @@ Les utilisateurs seront informés en cas de changement important.
 
 Pour toute question concernant la confidentialité :
 
-📧 **dalianoir@gmx.fr**
+📧 **contact.bowo.app@gmail.com**
 
 ---
 
