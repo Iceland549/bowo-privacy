@@ -55,7 +55,7 @@ est purgée automatiquement dans un délai maximum de **30 jours**.
 Si tu n’as plus accès à l’application, tu peux également demander la suppression de ton compte par email.
 Nous traiterons la demande après vérification de ton identité :
 
-👉 **dalianoir@gmx.fr**
+👉 **contact.bowo.app@gmail.com**
 
 En indiquant l’adresse email utilisée dans l’application.
 
