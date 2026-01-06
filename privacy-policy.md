@@ -18,7 +18,7 @@ BoWo collecte et stocke les informations suivantes :
 * Niveau et XP global
 * Tricks débloqués et progression
 * Mini-jeux débloqués
-* Statistiques d’usage anonymes
+* Statistiques d’usage anonymes 
 
 Aucune donnée sensible (santé, localisation précise, contacts, photos personnelles) n’est collectée.
 
